@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/simulation/qsim
+vlight
+Z1 I44O:Jm9JQ?TGmaRfH9_hf0
+Z2 V<X>;[O2;znUk0VMemUTWA2
+Z3 d/home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/simulation/qsim
+Z4 w1674007560
+Z5 8light.vo
+Z6 Flight.vo
+L0 32
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 !s90 -work|work|light.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 :5mDXNV8P]k4WzF@P9il;1
+!s85 0
+Z11 !s108 1674007563.907095
+Z12 !s107 light.vo|
+!s101 -O0
+vlight_vlg_check_tst
+!i10b 1
+!s100 Sn_z^RMCSPhXYNFD7`C];1
+I0XcX09eC]eNfV;bCdlOEg3
+Z13 Vh_[_k?ZM@DPYA6BHV62m82
+R3
+Z14 w1674007556
+Z15 8light.vwf.vt
+Z16 Flight.vwf.vt
+L0 60
+R7
+r1
+!s85 0
+31
+Z17 !s108 1674007564.037401
+Z18 !s107 light.vwf.vt|
+Z19 !s90 -work|work|light.vwf.vt|
+!s101 -O0
+R9
+vlight_vlg_sample_tst
+!i10b 1
+!s100 M0lQE`e9IaNXF0k7gMXoC0
+IFfLG6iGO@WDmUh2aA1i<?3
+Z20 V3fbSO?WL8[zEh1IlDPd=^0
+R3
+R14
+R15
+R16
+L0 30
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+vlight_vlg_vec_tst
+!i10b 1
+!s100 g=nTUo99]:OF7Y;z_Z<4[0
+Id<zPiJ;5cd_]iPOZH113a1
+Z21 V;IThR5jgidSm]hb5A0b_=3
+R3
+R14
+R15
+R16
+Z22 L0 155
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9

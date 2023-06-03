@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/light.vhd
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/light.wvf
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/Block2.bdf
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/Waveform.vwf
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/light.vwf
+source_file = 1, /home/student2/dfloreza/Desktop/coe608/lab1/introtutorial/db/light.cbx.xml
+source_file = 1, /CMC/tools/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, /CMC/tools/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, /CMC/tools/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, /CMC/tools/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = light
+instance = comp, \f~output , f~output, light, 1
+instance = comp, \x2~input , x2~input, light, 1
+instance = comp, \x1~input , x1~input, light, 1
+instance = comp, \f~0 , f~0, light, 1
